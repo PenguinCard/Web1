@@ -1,0 +1,55 @@
+body{
+    margin: 0; padding: 0;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+h2{
+    width: 580px;
+    padding: 8px;
+    margin: 30px 0 0 50px;
+    border: 5px solid #aaaaaa;
+    border-radius: 10px;
+}
+li {
+    display: inline-block;
+    vertical-align: middle;
+}
+#lg_b {
+    margin: 50px 0 0 50px;
+    width: 600px;
+    height: 300px;
+    border: 2px solid #888888;
+    border-radius: 10px;
+}/*login box*/
+#pw {
+    margin: 5px 0 7px 0;
+}
+#top {
+    margin: 30px 0 20px 0;
+}
+#value {
+    width: 120px;
+}
+#name {
+    width: 50px;
+}
+#right {
+    margin-top: 5px;
+    padding: 0;
+}
+#under {
+    padding: 15px 0 0 60px;
+    list-style-type: disc;  
+}
+#auto {
+    margin: 15px 0 0 20px;
+}
+#btn {
+    display: inline-block;
+    margin-left: 0;
+}
+.bottom {
+    list-style-type: circle;
+    margin-bottom: 5px;
+    display: block;
+}
