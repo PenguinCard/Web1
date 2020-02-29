@@ -48,6 +48,11 @@ li {
     margin-left: 0;
 }
 .bottom {
+    list-style-type: circle;
     margin-bottom: 5px;
     display: block;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
