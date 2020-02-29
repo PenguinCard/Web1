@@ -38,8 +38,7 @@ li {
     padding: 0;
 }
 #under {
-    padding: 15px 0 0 60px;
-    list-style-type: disc;  
+    padding: 15px 0 0 60px; 
 }
 #auto {
     margin: 15px 0 0 20px;
@@ -49,7 +48,6 @@ li {
     margin-left: 0;
 }
 .bottom {
-    list-style-type: circle;
     margin-bottom: 5px;
     display: block;
 }
