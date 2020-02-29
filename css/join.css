@@ -5,7 +5,11 @@ body {
     font-size: 12px;
 }
 h2 {
-    margin: 30px 0 30px 80px;
+    margin: 30px 0 0 50px;
+    width: 580px;
+    padding: 8px;
+    border: 5px solid #aaaaaa;
+    border-radius: 10px;
 }
 li {
     vertical-align: middle;
@@ -13,9 +17,9 @@ li {
     margin-bottom: 8px;
 }
 .join{
-    margin: 30px 0 20px 40px;
-    padding-left: 40px;
-    width: 350px;
+    margin: 50px 0 0 50px;
+    padding-left: 100px;
+    width: 500px;
     border-top: 3px #bbbbbb solid;
     border-bottom: 3px #bbbbbb solid;
     background-repeat: repeat-x;
@@ -28,5 +32,5 @@ li {
     width: 120px;
 }
 #btn {
-    margin-left: 260px;
+    margin-left: 380px;
 }
